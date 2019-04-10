@@ -2,6 +2,7 @@
   <library name="Maven: backport-util-concurrent:backport-util-concurrent:3.1">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Selenium/selenium-html-runner-3.141.59.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1-javadoc.jar!/" />
